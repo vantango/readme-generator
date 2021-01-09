@@ -1,4 +1,4 @@
-# PROJECT TITLE
+# Project Title
 README Generator
     
 ## Description: 
