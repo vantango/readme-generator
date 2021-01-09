@@ -1,6 +1,9 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require("./generateMarkdown.js");
+const path = require("path");
+const OUTPUT_DIR = path.resolve(__dirname, "readme-output");
+const outputPath = path.join(OUTPUT_DIR, "readme.md");
 
 const inputs = [
     {
@@ -53,7 +56,7 @@ const inputs = [
 
 
 function writeToFile(fileName, questions) {
-    fileName = `readme.md`
+    console.log(fileName);
     fs.writeFile(fileName, questions, err =>
         err ? console.error(err) : console.log('File Created!')
     )
@@ -64,7 +67,7 @@ function init() {
     inquirer.prompt(inputs)
         .then((response) => {
             const markdown = generateMarkdown(response)
-            writeToFile(`readme.md`, markdown), err =>
+            writeToFile(outputPath, markdown), err =>
                 err ? console.error(err) : console.log('File Created!')
         });
 }
