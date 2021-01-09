@@ -6,7 +6,11 @@
 I was tasked with creating a functional README file generator that utilizes a series of prompts and takes the user's input values and selections and appends them onto a professional quality README file.
 
 <img src="https://media.giphy.com/media/Wct8YZb3S2WRTQuE9d/giphy.gif">
-            
+
+```
+Sample README files can be found in the readme-output folder.
+```
+    
 ## Table of Contents
 - [Installation](#Installation)
 - [Usage](#Usage)
