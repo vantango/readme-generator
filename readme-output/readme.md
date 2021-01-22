@@ -1,9 +1,9 @@
 
-# Note Taker
+# Employee Tracker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 ## Description: 
-This is an app that keeps track of the information entered by the user and stores it as notes that can be saved or deleted. It utilizes Node and Express for full frontend-backend functionality.
+A command-line interface application built to view, add, and update employees, their roles, and the departments they reside in.
             
 ## Table of Contents
 - [Installation](#Installation)
@@ -14,7 +14,7 @@ This is an app that keeps track of the information entered by the user and store
 - [Questions](#Questions)
             
 ### Installation: 
- Perform install procedure for ExpressJS.
+ Please perform install procedures for Inquirer and MySQL JSON packages.
             
 ### Usage: 
 N/A
