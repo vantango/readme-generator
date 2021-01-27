@@ -1,9 +1,9 @@
 
-# Employee Tracker
+# Burger Devourer
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 ## Description: 
-A command-line interface application built to view, add, and update employees, their roles, and the departments they reside in.
+An app that utilizes MySQL, Node, Express, and ORM to add, devour, and reorder any burger you like!
             
 ## Table of Contents
 - [Installation](#Installation)
@@ -14,7 +14,7 @@ A command-line interface application built to view, add, and update employees, t
 - [Questions](#Questions)
             
 ### Installation: 
- Please perform install procedures for Inquirer and MySQL JSON packages.
+ Please implement install process for Node, Express, and MySQL NPM packages.
             
 ### Usage: 
 N/A
