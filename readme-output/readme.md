@@ -1,9 +1,9 @@
 
-# Burger Devourer
+# Budget Tracker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 ## Description: 
-An app that utilizes MySQL, Node, Express, and ORM to add, devour, and reorder any burger you like!
+A simple budget tracker app utilizing express and mongoose to apply online and offline functionality for a user to keep track of their budget via a downloadable progressive web application.
             
 ## Table of Contents
 - [Installation](#Installation)
@@ -14,7 +14,7 @@ An app that utilizes MySQL, Node, Express, and ORM to add, devour, and reorder a
 - [Questions](#Questions)
             
 ### Installation: 
- Please implement install process for Node, Express, and MySQL NPM packages.
+ Perform npm install of express, morgan, and mongoose npm packages.
             
 ### Usage: 
 N/A
@@ -34,7 +34,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 N/A
             
 ### Tests: 
-N/A
+Tested on local and deployed environments.
             
 ### Questions:
 Find me on GitHub at: https://github.com/vantango
