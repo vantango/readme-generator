@@ -1,9 +1,9 @@
 
-# Employee Directory
+# React Portfolio
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 ## Description: 
-A React app that uses Axios to make API calls to the Random User Generator API. An employee can be searched for via first or last name (non-case sensitive). Employees can also be arranged in both ascending or descending order based on either their first or last name.
+We were tasked with rebuilding our original HTML/CSS portfolios using React.
             
 ## Table of Contents
 - [Installation](#Installation)
@@ -14,7 +14,7 @@ A React app that uses Axios to make API calls to the Random User Generator API. 
 - [Questions](#Questions)
             
 ### Installation: 
- Install the Axios npm package.
+ Perform initial npm i procedure.
             
 ### Usage: 
 N/A
@@ -31,7 +31,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
             
 ### Contributing:
-For questions, please contact me at the email address below.
+Aleksandr Kimball-Moreno
             
 ### Tests: 
 N/A
