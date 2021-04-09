@@ -1,9 +1,9 @@
 
-# React Portfolio
+# My Portfolio
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 ## Description: 
-We were tasked with rebuilding our original HTML/CSS portfolios using React.
+I rebuilt my portfolio website from the ground up using HTML, CSS (Bulma, AOS), and a little vanilla JavaScript!
             
 ## Table of Contents
 - [Installation](#Installation)
@@ -14,10 +14,10 @@ We were tasked with rebuilding our original HTML/CSS portfolios using React.
 - [Questions](#Questions)
             
 ### Installation: 
- Perform initial npm i procedure.
+ N/A
             
 ### Usage: 
-N/A
+For reference only.
             
 ### License:
 (https://opensource.org/licenses/MIT)
